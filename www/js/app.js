@@ -89,7 +89,7 @@ angular.module('musicswipe', ['ionic', 'musicswipe.controllers'])
 
 .constant('SERVER', {
   // Local server
-  url: 'http://localhost:3000'
+  url: 'http://localhost:5000'
 
   // Public Heroku server
   // url: 'https://ionic-songhop.herokuapp.com'
