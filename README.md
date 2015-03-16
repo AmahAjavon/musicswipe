@@ -1,0 +1,1 @@
+Musicswipe is a simple music app made with Angular and ionic. The user can sign up, no password needed for the moment, he can flip through different songs that play for 30 seconds using the spotify API. The user can add a song to his favorite list, and listen to it on spotify. We can also delete a song from the favorite list. Enjoy.  
